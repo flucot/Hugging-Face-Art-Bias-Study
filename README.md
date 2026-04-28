@@ -58,6 +58,7 @@ As of today, Hugging Face’s stated mission is to “democratize good machine l
 The Hugging Face art exhibition is an ephemeral visual computing installation that uses an augmented camera to capture and transform the video feed of passersby in real time through a local AI model and insert people into an historical art period. Technically, the system operates under a “privacy by design” protocol (See Figure 1), where processing is performed internally without connecting to external servers as detailed in their privacy statement (Hugging Face, 2025), ensuring that the captured video is immediately distorted to prevent subject identification and instantly discarded without leaving any persistent records or databases. The installation not only seeks to generate a highly abstract aesthetic piece disconnected from the user’s actual appearance.
 
  ![Figure 1.](Photos/IMG_3233.jpg)
+ Figure 1. Privacy protocol at the Hugging Face HQ
 
 # 4. Methodology
 
