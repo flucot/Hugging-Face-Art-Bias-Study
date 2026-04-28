@@ -129,15 +129,27 @@ Finally, our analysis is shaped by a theoretical framework  that is explicitly c
 
 # 9. References
 Alvarado, O., Vanden Abeele, V., Geerts, D., & Verbert, K. (2022). Towards tangible algorithms: Exploring the experiences of tangible interactions with movie recommender algorithms. Proceedings of the ACM on Human-Computer Interaction, 6(CSCW2), 1-30.
+
 Buolamwini, J., & Gebru, T. (2018, January). Gender shades: Intersectional accuracy disparities in commercial gender classification. In Conference on fairness, accountability and transparency (pp. 77-91). PMLR.
+
 Contrary Research. (n.d.). Hugging Face business breakdown & founding story. https://research.contrary.com/company/hugging-face
+
 Crawford, K., & Paglen, T. (2021). Excavating AI: The politics of images in machine learning training sets. AI & Society, 36(4), 1105-1116.
+
 Dicks, B., Flewitt, R., Lancaster, L., & Pahl, K. (2011). Multimodality and ethnography: working at the intersection. Qualitative research, 11(3), 227-237.
+
 El Fadel, N. (2025). Facial recognition algorithms: A systematic literature review. Journal of Imaging, 11(2), 58.
+
 Hugging Face Ethics & Society. (2022, December). Let's talk about biases in machine learning! Ethics and Society Newsletter #2. https://huggingface.co/blog/ethics-soc-2
+
 Hugging Face Ethics & Society. (2023, June). Ethics and Society Newsletter #4: Bias in text-to-image models. https://huggingface.co/blog/ethics-soc-4
+
 Hugging Face. (2025). Politiques des Confidentialité. https://huggingface.co/spaces/ReflexionIA/privacy_policy
+
 Noble, S. U. (2018). Algorithms of oppression: How search engines reinforce racism. In Algorithms of oppression. New York university press.
+
 Pink, S. (2025). Visual Design Anthropology: Filming in Workshops. Visual Anthropology, 38(1-2), 49-66.
+
 Raji, I. D., Gebru, T., Mitchell, M., Buolamwini, J., Lee, J., & Denton, R. (2020, February). Saving face: Investigating the ethical concerns of facial recognition auditing. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (pp. 145-151).
+
 Ziewitz, M. (2016). Governing algorithms: Myth, mess, and methods. Science, Technology, & Human Values, 41(1), 3-16.
