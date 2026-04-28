@@ -4,10 +4,6 @@ This article examines the Hugging Face art exhibition, a computer vision install
 
 # Keywords: facial recognition, art, qualitative analysis, bias, representation
 
-Github: https://github.com/flucot/Hugging-Face-Art-Bias-Study
-
-
-
 # 1. Introduction
 
 The proliferation of artificial intelligence in everyday life has brought with it a renewed urgency to interrogate who these systems see, how they see, and on whose terms. Facial recognition, generative imagery, and real-time transformation tools are no longer confined to research laboratories or state surveillance apparatuses; they now appear in galleries, public squares, and cultural events, inviting ordinary people into encounters with algorithmic classification. Yet the migration of these technologies into aesthetic and participatory contexts does not neutralize the political stakes embedded in their design. If anything, it renders those stakes more visible, and more worthy of sustained critical attention.
