@@ -80,7 +80,7 @@ In the headquarters of Hugging Face, at 36 Rue du Caire, there is a big screen f
 
 Then, we started to observe the exhibition and how it is made and which patterns can be observed. We concluded that it consists of a rotation of a selection of era or style (≈15 different artistic eras/styles has been observed) that switches every three seconds based on the video flow the webcam at the top of the screen provides (See Figure 3.). We noted as well that the flow is not reactive enough to represent passing by pedestrians, you need to stand there for several seconds for the AI to process your appearance and show it back on the screen. Then, we started stopping people to gather their opinions, present the exhibition, and harvest their impressions and reflections on the screen. 
 
-<img src="Photos/IMG_6197.jpg" width="200"> <img src="Photos/IMG_6199.jpg" width="200"> <img src="Photos/IMG_6193.jpg" width="200"> <img src="Photos/IMG_6194.jpg" width="200"> <img src="Photos/IMG_6195.jpg" width="200">
+<img src="Photos/IMG_6197.jpg" width="200"><img src="Photos/IMG_6199.jpg" width="200"><img src="Photos/IMG_6193.jpg" width="200"><img src="Photos/IMG_6194.jpg" width="200"><img src="Photos/IMG_6195.jpg" width="200">
 
 Figure 3. Different art periods at the exhibition
 
