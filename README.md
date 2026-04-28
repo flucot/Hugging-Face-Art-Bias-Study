@@ -67,6 +67,7 @@ Secondly, we conducted fieldwork over one full day at the exhibition, adopting a
 The first part consists of the documentation of the performance, utilizing what Pink (2025) defines as sensory ethnography. This involves a photographic and descriptive recording of users’ interactions with the AI to analyze the "materiality" of the digital encounter and how the system responds to various inputs in real-time. This method allows us to capture the "social life" of the algorithm (Ziewitz, 2016) within the specific context of the gallery. The second part involves intercept interviews with visitors, guided by an instrument developed by the authors (see our Github). This technique is designed to elicit immediate reflections on the "algorithmic experience" (Alvarado et al., 2022), focusing on how users interpret the outputs and the potential biases they perceive during the interaction.
 
  ![Figure 1.](Interviewing_people_photos/IMG_3227.jpg)
+ Figure 1. People interviewed outside Hugging Face HQ
 
 # 4.3 Participants
 Our fieldwork involved intercept interviews with 15 participants recruited on-site as they passed in front of the installation (as seen in Figure 1). The sample was demographically broad, spanning an age range of approximately 15 to 60 years old and drawing from diverse socioeconomic backgrounds, though it was not designed to be statistically representative.
