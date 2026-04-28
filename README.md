@@ -72,7 +72,7 @@ The first part consists of the documentation of the performance, utilizing what 
 # 4.3 Participants
 Our fieldwork involved intercept interviews with 15 participants recruited on-site as they passed in front of the installation. The sample was demographically broad, spanning an age range of approximately 15 to 60 years old and drawing from diverse socioeconomic backgrounds, though it was not designed to be statistically representative.
 The general reception of the exhibition among participants was one of curiosity and amusement. Most interviewees engaged with the installation in a lighthearted manner and did not spontaneously reflect on its underlying mechanisms or implications. A recurring pattern across interviews was a reluctance to develop sustained critical commentary, and none of the participants ultimately elaborated at length on their impressions when invited to do so.
-Results
+# 5. Results
 In the headquarters of Hugging Face, at 36 Rue du Caire, there is a big screen facing the street at the left side of the main entrance. At the two sides of the screen, there are two sheets detailing the content of the exhibition with a QR code containing the privacy policy of the installation which states that the exhibition is GDPR compliant and stores no data from the pedestrians.
 
 Then, we started to observe the exhibition and how it is made and which patterns can be observed. We concluded that it consists of a rotation of a selection of era or style (≈15 different artistic eras/styles has been observed) that switches every three seconds based on the video flow the webcam at the top of the screen provides. We noted as well that the flow is not reactive enough to represent passing by pedestrians, you need to stand there for several seconds for the AI to process your appearance and show it back on the screen. Then, we started stopping people to gather their opinions, present the exhibition, and harvest their impressions and reflections on the screen. 
@@ -93,7 +93,7 @@ This finding resonates directly with Crawford and Paglen's (2021) argument that 
  
 This raises a broader concern regarding historical representation. If the visual rendering of historical art periods is systematically whitewashed, not through explicit intent but through the compounding logic of anonymization defaults and training data conventions, the installation risks re-centering European whiteness as the universal subject of art history. As Bowker and Leigh Star (1999) argue, classification systems determine what is included and what is excluded, and the default outputs of this installation are no exception to that logic.
  
-# 5. Discussion of the results
+# 6. Discussion of the results
 The central finding of our fieldwork, that the installation consistently renders human subjects as white, apparently male, European figures regardless of who actually stands before the screen, demands more than a technical explanation. It demands a sociological one.
 
 The designers of the exhibition faced a genuine dilemma. Facial recognition and generative AI systems are, as we saw, sites of racial and gender bias. Producing realistic renderings of real individuals' faces risked reproducing those biases in visible and potentially offensive ways: a black woman misrendered as a white woman, a person of East Asian descent flattened into an ill-fitting European aesthetic template. The anonymization module appears to have been conceived, at least in part, as a way out of this problem. If the system renders no one's face accurately, then no one's face can be misrepresented.
@@ -112,7 +112,7 @@ Noble's (2018) argument that algorithmic systems do not merely reflect social in
 
 It is also worth noting the asymmetry this creates within the output itself. The system renders clothing, posture, and accessories with relative stylistic fidelity to the artistic period being displayed. A visitor's coat becomes a Renaissance doublet; their bag becomes a Baroque still-life prop. These bodily elements are transformed but preserved. The face, by contrast, is not transformed, it is replaced. The result is an uncanny composite: a historically styled body inhabited by a face that belongs to no one present, and to one specific demographic default. The body is individualized; the face is universalized. And the universal, here, is white.
 
-# 6. Conclusions
+# 7. Conclusions
 This study set out to investigate the extent to which the Hugging Face AI Art Exhibition reproduces or challenges representational biases in its outputs. Our answer, based on fieldwork, observation, and close analysis of the system's behavior, is unambiguous: the installation reproduces bias, not despite its ethical intentions but, in part, because of them.
 The system's anonymization protocol, designed to protect user privacy and to avoid the well-documented risks of biased facial rendering, produces a default output that re-centers the white, male, European subject as the universal face of art history. By attempting to represent no one in particular, it ends up representing the same imagined person every time. The neutrality it aspires to is not neutral at all; it is a specific aesthetic and political position that mistakes the dominant for the universal.
 
@@ -120,14 +120,14 @@ This finding has implications that extend beyond the Hugging Face installation. 
 
 The Hugging Face exhibition is not a bad-faith project. The company's stated commitment to open-source development, ethical AI, and privacy-by-design reflects genuine and admirable values. But good intentions do not guarantee equitable outcomes, and this case illustrates why. The lesson is not that privacy protection should be abandoned, but that the design of those protections must itself be subject to critical scrutiny.
  
-# 7. Limitations 
+# 8. Limitations 
 The most significant limitation of this study is that we had no access to the underlying architecture of the system itself. The algorithm used to generate the artistic renderings, the training dataset on which it was built, the parameters of the anonymization module, and the curatorial decisions that shaped the selection of artistic periods all remained opaque to us. Our analysis is therefore necessarily inferential: we observed the outputs of the system and reasoned backward toward their causes, but we cannot confirm the technical mechanisms responsible for the patterns we identified. 
 
 This gap is compounded by our inability to conduct the planned interview with one of the system's developers before finalizing the paper. A conversation with someone involved in building the installation would either corroborate or complicate our interpretation, and might surface design constraints, intentions, or trade-offs that fieldwork alone cannot access. 
 Finally, our analysis is shaped by a theoretical framework  that is explicitly critical of power structures embedded in classification systems. This means our reading of the installation was oriented from the outset toward identifying exclusion and bias. A researcher approaching the same exhibition from, say, a human-computer interaction perspective, or one more focused on the technical achievements of privacy-by-design, might draw substantially different conclusions from the same observations. We do not consider this a flaw, but it is a boundary the reader should keep in mind when evaluating our findings.
 
 
-# 8. References
+# 9. References
 Alvarado, O., Vanden Abeele, V., Geerts, D., & Verbert, K. (2022). Towards tangible algorithms: Exploring the experiences of tangible interactions with movie recommender algorithms. Proceedings of the ACM on Human-Computer Interaction, 6(CSCW2), 1-30.
 Buolamwini, J., & Gebru, T. (2018, January). Gender shades: Intersectional accuracy disparities in commercial gender classification. In Conference on fairness, accountability and transparency (pp. 77-91). PMLR.
 Contrary Research. (n.d.). Hugging Face business breakdown & founding story. https://research.contrary.com/company/hugging-face
