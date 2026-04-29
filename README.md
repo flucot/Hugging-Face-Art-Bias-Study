@@ -11,8 +11,8 @@ This article examines the Hugging Face art exhibition, a computer vision install
 
 - ## Table of contents
 
-[Abstract](#abstract)
-[Keywords](#keywords)
+- [Abstract](#abstract)
+- [Keywords](#keywords)
 - [1. Introduction](#1-introduction)
 - [2. Theoretical framework](#2-theoretical-framework)
   - [2.1 How facial recognition works](#21-how-facial-recognition-works)
@@ -37,7 +37,7 @@ This article examines the Hugging Face art exhibition, a computer vision install
 
 # 1. Introduction
 
-The proliferation of artificial intelligence in everyday life has brought with it a renewed urgency to interrogate who these systems see, how they see, and on whose terms. Facial recognition, generative imagery, and real-time transformation tools are no longer confined to research laboratories or state surveillance apparatuses; they now appear in galleries, public squares, and cultural events, inviting ordinary people into encounters with algorithmic classification. Yet the migration of these technologies into aesthetic and participatory contexts does not neutralize the political stakes embedded in their design. If anything, it renders those stakes more visible, and more worthy of sustained critical attention.
+The proliferation of AI in everyday life has brought with it a renewed urgency to interrogate who these systems see, how they see, and on whose terms. Facial recognition, generative imagery, and real-time transformation tools are no longer confined to research laboratories or state surveillance apparatuses; they now appear in galleries, public squares, and cultural events, inviting ordinary people into encounters with algorithmic classification. Yet the migration of these technologies into aesthetic and participatory contexts does not neutralize the political stakes embedded in their design. If anything, it renders those stakes more visible, and more worthy of sustained critical attention.
 
 This paper takes as its object of study the Hugging Face AI Art Exhibition, an ephemeral visual computing installation situated at the company's Paris headquarters on the Rue du Caire. The installation uses an augmented camera to capture and transform the video feed of passersby in real time, inserting them into historical art periods through a locally run AI model. Operating under a privacy-by-design protocol, it processes footage without storing or transmitting identifiable data. The result is an encounter that is simultaneously aesthetic and classificatory: the system must interpret a human face and assign it a visual and historical identity. In doing so, it inevitably performs a series of choices about whose faces fit which periods, which visual conventions define a given era, and what it means to "represent" a person through the lens of art history.
 
