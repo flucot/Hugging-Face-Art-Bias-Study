@@ -17,7 +17,6 @@ This article examines the Hugging Face art exhibition, a computer vision install
 - [Methodology](#-methodology)
 - [Visuals from the Field](#-visuals-from-the-field)
 - [Full Essay](#-full-essay)
-- [Keywords](#-keywords)
 - [References](#-references)
 
 # Keywords: facial recognition, art, qualitative analysis, bias, representation
@@ -169,11 +168,17 @@ Dicks, B., Flewitt, R., Lancaster, L., & Pahl, K. (2011). Multimodality and ethn
 
 El Fadel, N. (2025). Facial recognition algorithms: A systematic literature review. Journal of Imaging, 11(2), 58.
 
+Foucault, M., Discipline and Punish – The Birth of the Prison, Vintage Books, New York: 1995 (1975). 
+
+Hooks, B., Black looks: race and representation, South End Press, Boston, MA: 1992.
+
 Hugging Face Ethics & Society. (2022, December). Let's talk about biases in machine learning! Ethics and Society Newsletter #2. https://huggingface.co/blog/ethics-soc-2
 
 Hugging Face Ethics & Society. (2023, June). Ethics and Society Newsletter #4: Bias in text-to-image models. https://huggingface.co/blog/ethics-soc-4
 
 Hugging Face. (2025). Politiques des Confidentialité. https://huggingface.co/spaces/ReflexionIA/privacy_policy
+
+Mirzoeff, N., The Right to Look: A Counterhistory of Visuality, Duke University Press, Durham: 2011
 
 Noble, S. U. (2018). Algorithms of oppression: How search engines reinforce racism. In Algorithms of oppression. New York university press.
 
@@ -182,3 +187,4 @@ Pink, S. (2025). Visual Design Anthropology: Filming in Workshops. Visual Anthro
 Raji, I. D., Gebru, T., Mitchell, M., Buolamwini, J., Lee, J., & Denton, R. (2020, February). Saving face: Investigating the ethical concerns of facial recognition auditing. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (pp. 145-151).
 
 Ziewitz, M. (2016). Governing algorithms: Myth, mess, and methods. Science, Technology, & Human Values, 41(1), 3-16.
+
