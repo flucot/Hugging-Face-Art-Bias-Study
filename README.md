@@ -1,5 +1,5 @@
 # The Broken Mirror: Representation Biases in Hugging Face’s Art Exhibition
-Abstract: 
+# Abstract: 
 This article examines the Hugging Face art exhibition, a computer vision installation located at the company’s headquarters in Paris, which transforms images of passers-by in real time by placing them within historical artistic periods using a local AI model. Drawing on the theoretical framework of Crawford and Paglen (2021) and the literature on biases in facial recognition, we investigate the extent to which the system reproduces or challenges representational biases in its outputs. Through ethnographic observation and interviews with visitors, we identified a systematic pattern: although the system faithfully renders the subjects’ clothing and silhouette, it consistently abstracts facial features, producing white, male figures of European appearance, regardless of the actual demographics of the person in front of the screen. We interpret this result as the unintended consequence of two overlapping design decisions: (1) an anonymisation module aimed at protecting privacy, and (2) a training corpus centred on the Western European artistic canon. We conclude that the neutrality to which the system aspires is not such, because by attempting not to represent anyone in particular, it ends up always reproducing the same imagined subject, re-centring whiteness and masculinity as the implicit norm of art history.
 
 ![Status](https://img.shields.io/badge/Status-Published-brightgreen)
@@ -9,14 +9,13 @@ This article examines the Hugging Face art exhibition, a computer vision install
 
 > *"By attempting to represent no one in particular, the system ends up representing the same imagined person every time."*
 
-## 📋 Table of Contents
+## Table of Contents
 
-- [Abstract](#-abstract)
-- [The Exhibition](#-the-exhibition)
-- [Key Finding](#-key-finding)
-- [Methodology](#-methodology)
-- [Visuals from the Field](#-visuals-from-the-field)
-- [Full Essay](#-full-essay)
+- [Abstract](#-Abstract)
+- [The Exhibition](#-The-exhibition)
+- [Methodology](#-Methodology)
+- [Results](#-Results)
+- [Discussion of the Results](#-Discussion-of-the-results)
 - [References](#-references)
 
 # Keywords: facial recognition, art, qualitative analysis, bias, representation
