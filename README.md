@@ -9,14 +9,29 @@ This article examines the Hugging Face art exhibition, a computer vision install
 
 > *By attempting to represent no one in particular, the system ends up representing the same imagined person every time.*
 
-## Table of Contents
+- ## Table of contents
 
-- [Abstract](#Abstract)
-- [Methodology](#4-Methodology)
-- [The Exhibition](#32-the-exhibition)
-- [Results](#5-Results)
-- [Discussion of the Results](#6-Discussion-of-the-results)
-- [References](#9-References)
+- [Abstract](#abstract)
+- [Keywords](#keywords)
+- [1. Introduction](#1-introduction)
+- [2. Theoretical framework](#2-theoretical-framework)
+  - [2.1 How facial recognition works](#21-how-facial-recognition-works)
+  - [2.2 Sources of bias](#22-sources-of-bias)
+  - [2.3 Racial and gender bias](#23-racial-and-gender-bias)
+  - [2.4 Why bias matters](#24-why-bias-matters)
+  - [2.5 Representation in the arts](#25-the-question-of-representation-in-the-arts-and-how-it-relates-to-our-case)
+- [3. Case study: Hugging Face art exhibition](#3-case-study-hugging-face-art-exhibition)
+  - [3.1 The company behind the exhibition](#31-the-company-behind-the-exhibition)
+  - [3.2 The exhibition](#32-the-exhibition)
+- [4. Methodology](#4-methodology)
+  - [4.1 Study design](#41-study-design)
+  - [4.2 Fieldwork](#42-fieldwork)
+  - [4.3 Participants](#43-participants)
+- [5. Results](#5-results)
+- [6. Discussion of the results](#6-discussion-of-the-results)
+- [7. Conclusions](#7-conclusions)
+- [8. Limitations](#8-limitations)
+- [9. References](#9-references)
 
 # Keywords: facial recognition, art, qualitative analysis, bias, representation
 
