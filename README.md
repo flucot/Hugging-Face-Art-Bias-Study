@@ -11,8 +11,8 @@ This article examines the Hugging Face art exhibition, a computer vision install
 
 - ## Table of contents
 
-- [Abstract](#abstract)
-- [Keywords](#keywords)
+[Abstract](#abstract)
+[Keywords](#keywords)
 - [1. Introduction](#1-introduction)
 - [2. Theoretical framework](#2-theoretical-framework)
   - [2.1 How facial recognition works](#21-how-facial-recognition-works)
