@@ -123,7 +123,7 @@ The most analytically significant finding to emerge from our fieldwork concerns 
  
 The system demonstrates a high degree of fidelity when reproducing non-facial bodily elements: clothing, bags, silhouettes, and postures were all rendered with relative accuracy and stylistic coherence within the given artistic period. However, when it came to facial features and exposed skin, such as the hands, neck, and face, the system's output was systematically abstract and sketch-like, losing the specificity of the subject's actual appearance. In place of this specificity, the rendered faces consistently presented as those of white, apparently male, European figures, regardless of the demographic characteristics of the person actually standing before the screen (See Figure 4).
 
-<img src="Interviewing_people_photos/Unknown-1.jpg" width="400"><img src="Interviewing_people_photos/Unknown.jpg" width="400">
+<img src="Interviewing_people_photos/Unknown-1.jpg" width="400"> <img src="Interviewing_people_photos/Unknown.jpg" width="400">
 
 Figure 4. Interviewed subjects in front of the screen.
  
