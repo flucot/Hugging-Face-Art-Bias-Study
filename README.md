@@ -121,7 +121,11 @@ One significant technical observation concerns the system's temporal responsiven
  
 The most analytically significant finding to emerge from our fieldwork concerns the system's approach to rendering human subjects. Through repeated observation of different individuals standing before the screen, varying in apparent gender, skin tone, age, and dress, we identified a consistent and reproducible pattern in the outputs.
  
-The system demonstrates a high degree of fidelity when reproducing non-facial bodily elements: clothing, bags, silhouettes, and postures were all rendered with relative accuracy and stylistic coherence within the given artistic period. However, when it came to facial features and exposed skin, such as the hands, neck, and face, the system's output was systematically abstract and sketch-like, losing the specificity of the subject's actual appearance. In place of this specificity, the rendered faces consistently presented as those of white, apparently male, European figures, regardless of the demographic characteristics of the person actually standing before the screen.
+The system demonstrates a high degree of fidelity when reproducing non-facial bodily elements: clothing, bags, silhouettes, and postures were all rendered with relative accuracy and stylistic coherence within the given artistic period. However, when it came to facial features and exposed skin, such as the hands, neck, and face, the system's output was systematically abstract and sketch-like, losing the specificity of the subject's actual appearance. In place of this specificity, the rendered faces consistently presented as those of white, apparently male, European figures, regardless of the demographic characteristics of the person actually standing before the screen (See Figure 4).
+
+<img src="Interviewing_people_photos/Unknown-1.jpg" width="400"><img src="Interviewing_people_photos/Unknown.jpg" width="400">
+
+Figure 4. Interviewed subjects in front of the screen.
  
 We interpret this pattern as the signature of an anonymization module embedded within the pipeline, a deliberate technical choice designed to prevent the system from producing identifiable representations of real individuals, in keeping with its stated privacy-by-design protocol. Understood as a privacy measure, this design decision is legitimate and coherent with the ethical commitments of the project. However, its representational consequences are far from neutral.
  
