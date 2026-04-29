@@ -12,11 +12,11 @@ This article examines the Hugging Face art exhibition, a computer vision install
 ## Table of Contents
 
 - [Abstract](#Abstract)
-- [The Exhibition](#The exhibition)
-- [Methodology](#Methodology)
-- [Results](#-Results)
-- [Discussion of the Results](#-Discussion-of-the-results)
-- [References](#-references)
+- [Methodology](#4-Methodology)
+- [The Exhibition](#32-the-exhibition)
+- [Results](#5-Results)
+- [Discussion of the Results](#6-Discussion-of-the-results)
+- [References](#9-References)
 
 # Keywords: facial recognition, art, qualitative analysis, bias, representation
 
