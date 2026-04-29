@@ -7,7 +7,7 @@ This article examines the Hugging Face art exhibition, a computer vision install
 ![Location](https://img.shields.io/badge/Location-Paris%2C%20France-red)
 ![Topic](https://img.shields.io/badge/Topic-AI%20Bias%20%26%20Representation-purple)
 
-*Authors: Francisca Luco, Pedro Trajano, Théo Berviller, Nicolas Mayen*
+> *Authors: Francisca Luco, Pedro Trajano, Théo Berviller, Nicolas Mayen*
 
 - ## Table of contents
 
