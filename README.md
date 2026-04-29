@@ -7,13 +7,13 @@ This article examines the Hugging Face art exhibition, a computer vision install
 ![Location](https://img.shields.io/badge/Location-Paris%2C%20France-red)
 ![Topic](https://img.shields.io/badge/Topic-AI%20Bias%20%26%20Representation-purple)
 
-> *"By attempting to represent no one in particular, the system ends up representing the same imagined person every time."*
+> *By attempting to represent no one in particular, the system ends up representing the same imagined person every time.*
 
 ## Table of Contents
 
-- [Abstract](#-Abstract)
-- [The Exhibition](#-The-exhibition)
-- [Methodology](#-Methodology)
+- [Abstract](#Abstract)
+- [The Exhibition](#The exhibition)
+- [Methodology](#Methodology)
 - [Results](#-Results)
 - [Discussion of the Results](#-Discussion-of-the-results)
 - [References](#-references)
