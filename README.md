@@ -2,6 +2,24 @@
 Abstract: 
 This article examines the Hugging Face art exhibition, a computer vision installation located at the company’s headquarters in Paris, which transforms images of passers-by in real time by placing them within historical artistic periods using a local AI model. Drawing on the theoretical framework of Crawford and Paglen (2021) and the literature on biases in facial recognition, we investigate the extent to which the system reproduces or challenges representational biases in its outputs. Through ethnographic observation and interviews with visitors, we identified a systematic pattern: although the system faithfully renders the subjects’ clothing and silhouette, it consistently abstracts facial features, producing white, male figures of European appearance, regardless of the actual demographics of the person in front of the screen. We interpret this result as the unintended consequence of two overlapping design decisions: (1) an anonymisation module aimed at protecting privacy, and (2) a training corpus centred on the Western European artistic canon. We conclude that the neutrality to which the system aspires is not such, because by attempting not to represent anyone in particular, it ends up always reproducing the same imagined subject, re-centring whiteness and masculinity as the implicit norm of art history.
 
+![Status](https://img.shields.io/badge/Status-Published-brightgreen)
+![Method](https://img.shields.io/badge/Method-Ethnographic-blue)
+![Location](https://img.shields.io/badge/Location-Paris%2C%20France-red)
+![Topic](https://img.shields.io/badge/Topic-AI%20Bias%20%26%20Representation-purple)
+
+> *"By attempting to represent no one in particular, the system ends up representing the same imagined person every time."*
+
+## 📋 Table of Contents
+
+- [Abstract](#-abstract)
+- [The Exhibition](#-the-exhibition)
+- [Key Finding](#-key-finding)
+- [Methodology](#-methodology)
+- [Visuals from the Field](#-visuals-from-the-field)
+- [Full Essay](#-full-essay)
+- [Keywords](#-keywords)
+- [References](#-references)
+
 # Keywords: facial recognition, art, qualitative analysis, bias, representation
 
 # 1. Introduction
@@ -112,9 +130,13 @@ This is, in essence, a paradox of avoidance. By refusing to make explicit catego
 Crawford and Paglen's (2021) insight that machine learning systems actively construct versions of the world rather than passively reflecting it is fully borne out here. The construction, however, is not located in a classification error or a biased label. It is located in the design of the safety mechanism itself. The system was engineered to protect users from misrepresentation, and in doing so it misrepresents all of them, uniformly, in the same direction: toward the center of the Western canon.
 
 This has consequences that exceed the individual encounter. The exhibition is situated in a public space, facing the street, visible to a demographically diverse urban population. Each time a person of color, a woman, or anyone whose appearance falls outside the narrow aesthetic conventions of European portraiture stands before the screen and sees a white male face rendered in their place, the installation does not merely fail to represent them. It actively replaces them. It tells them, at the level of the image, that the universal subject of art history looks like someone else.
+
 Yet the paradox of avoidance described above does not emerge in a vacuum. It is enabled, upstream, by a prior curatorial decision that has received insufficient scrutiny: the selection of artistic styles available to the system. Based on the outputs observed, the system appears to draw predominantly from the Western European canon — the Baroque, the Renaissance, Romanticism, Impressionism. If this is the case, these traditions developed within specific historical conditions of patronage and portraiture whose visual conventions were built around a particular vision of the human subject: white, European, and predominantly male. A training corpus weighted in this direction would encode assumptions about which artistic traditions are legible, valuable, and universal — assumptions that compound, rather than cause, the anonymization effects described above. 
+
 The representational bias observed in the output is therefore overdetermined, produced by two compounding decisions rather than one. Even if the privacy mechanism were redesigned to render faces with greater fidelity, every subject would still be routed through an aesthetic framework constructed for someone else. A dataset that included Yoruba court art, Mughal miniature portraiture, Chinese ink painting, or Andean textile iconography would not only expand the visual vocabulary of the installation — it would shift the gravitational center of the system's defaults. The current impasse, in which every visitor is universalized into whiteness, is in part a labeling and curation problem: the training corpus was assembled as though European art history were synonymous with art history. Foucault's (1991) concept of disciplinary power is instructive here — the installation does not coerce, it classifies, and classification always proceeds from a norm. The choice of which styles populate that norm is the choice of which bodies, faces, and visual traditions are treated as the baseline of human representation.
+
 This connects to a broader argument about why representational stakes in AI systems matter beyond the aesthetic. As hooks (1992) and Mirzoeff (2011) have argued, the capacity to see oneself reflected in cultural production is constitutive of identity, not incidental to it. To be admitted into the frame of art history only by having one's face replaced with a canonical European one is to be told that one's presence requires translation before it can be aestheticized. A more equitable design would ask, from the outset, whose art counts as training data — and build the dataset accordingly.
+
 Noble's (2018) argument that algorithmic systems do not merely reflect social inequalities but actively reproduce and legitimize them applies with particular force here. The exhibition positions itself as a democratizing gesture. An invitation for anyone passing by to enter the frame of art history. But the frame, as it turns out, has a fixed center of gravity. It accommodates diverse bodies, diverse clothing, diverse silhouettes. It does not accommodate diverse faces. The democratic promise of the installation is undercut by the representational architecture of its privacy solution.
 
 It is also worth noting the asymmetry this creates within the output itself. The system renders clothing, posture, and accessories with relative stylistic fidelity to the artistic period being displayed. A visitor's coat becomes a Renaissance doublet; their bag becomes a Baroque still-life prop. These bodily elements are transformed but preserved. The face, by contrast, is not transformed, it is replaced. The result is an uncanny composite: a historically styled body inhabited by a face that belongs to no one present, and to one specific demographic default. The body is individualized; the face is universalized. And the universal, here, is white.
